@@ -24,7 +24,7 @@
         </member>
         <member name="T:ChipsetAutoUpdater.MainWindow">
             <summary>
-            Interaction logic for MainWindow.xaml.
+                Interaction logic for MainWindow.xaml.
             </summary>
             <summary>
             MainWindow
@@ -32,13 +32,13 @@
         </member>
         <member name="M:ChipsetAutoUpdater.MainWindow.#ctor">
             <summary>
-            Initializes a new instance of the <see cref="T:ChipsetAutoUpdater.MainWindow"/> class.
+                Initializes a new instance of the <see cref="T:ChipsetAutoUpdater.MainWindow" /> class.
             </summary>
         </member>
         <member name="M:ChipsetAutoUpdater.MainWindow.OnClosed(System.EventArgs)">
             <summary>
-            Performs cleanup operations when the window is closed.
-            Disposes of the notify icon and calls the base OnClosed method.
+                Performs cleanup operations when the window is closed.
+                Disposes of the notify icon and calls the base OnClosed method.
             </summary>
             <param name="e">A System.EventArgs that contains the event data.</param>
         </member>
